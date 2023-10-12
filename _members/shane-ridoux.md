@@ -1,6 +1,6 @@
 ---
 name: Shane Ridoux
-image: /Users/shane/School/CU Denver/First Year/Fall/Lab Rotation 2/Admin/BioHeadshot2.jpg
+image: \images\team\Shane_Headshot.jpg
 description: PRA
 role: pra
 links:
