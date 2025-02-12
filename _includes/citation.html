@@ -11,8 +11,9 @@
     {%- endif -%}
   {%- endfor -%}
 {%- else -%}
-  {%- assign citation = include -%}
+   {%- assign citation = include -%}
 {%- endif -%}
+
 
 {%- assign rich = false -%}
 {%- if include.style == "rich" -%}
@@ -25,7 +26,7 @@
   {%- assign id = citation.id | default: "" -%}
   {%- assign link = citation.link | default: "" -%}
   {%- assign image = citation.image | default: "" -%}
-  {%- if rich -%}
+  {%- if rich and image != "" -%}
     <div class="citation_image">
       <a href="{{ link }}">
         <img
@@ -40,7 +41,7 @@
   {%- endif -%}
 
   <div class="citation_text">
-    {%- assign title = citation.title | default: "" -%}
+    {%- assign title = citation.title | default: emptyarray -%}
     <div class="citation_title">
       <a href="{{ link }}">
         {{ title }}
@@ -55,8 +56,8 @@
       {{ authors | join: ", " }}
     </div>
 
-    {%- assign publisher = citation.publisher | default: "[no publisher info]" -%}
-    {%- assign date = citation.date | default: "[no date info]" -%}
+    {%- assign publisher = citation.publisher | default: emptyarray -%}
+    {%- assign date = citation.date | default: emptyarray -%}
     <div class="citation_details">
       {{ publisher }}&nbsp; · &nbsp;{{ date | date: "%d %b %Y" }}
     </div>
@@ -64,7 +65,7 @@
     {%- if rich -%}
 
       {%- assign tags = citation.tags | default: emptyarray -%}
-      {%- assign repo = citation.repo | default: "" -%}
+      {%- assign repo = citation.repo | default: emptyarray -%}
       {%- assign extra-links = citation.extra-links | default: emptyarray -%}
 
       {%- include tags.html tags=tags repo=repo -%}
@@ -76,7 +77,7 @@
           {%- assign link = extra.link -%}
           {%- include link.html type=type icon=icon text=text link=link -%}
         {%- endfor -%}
-      </div>
+      </div>      
     {%- endif -%}
   </div>
 </div>
