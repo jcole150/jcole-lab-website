@@ -1,6 +1,6 @@
 ---
 name: Keshav Vembar
-image: images/team/Keshav_Headshot.JPG
+image: images/team/keshav_vembar.jpg
 role: graduate student
 description: Graduate Student
 links:
