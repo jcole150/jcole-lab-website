@@ -12,4 +12,4 @@ We aim to foster a diverse environment to enhance innovation and provide opportu
 
 Prospective PhD students can join the lab via the [Human Medical Genetics and Genomics Program](https://www.cuanschutz.edu/graduate-programs/human-medical-genetics-and-genomics/home) 
 
-We currently do not have any posted job openings, but please reach out to Joanne (joanne.cole@cuanschutz.edu) if interested in joining the team.
+Check CU careers for any job postings or reach out to Joanne (joanne.cole@cuanschutz.edu) if interested in joining the team.
