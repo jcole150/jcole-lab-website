@@ -1,6 +1,6 @@
 ---
 name: Kathryn Spence
-image: images/team/Kathryn.jpg
+image: images/team/kathryn.jpg
 role: graduate student
 description: Research Coordinator
 links:
