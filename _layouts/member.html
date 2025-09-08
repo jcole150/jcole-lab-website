@@ -32,5 +32,3 @@ layout: default
   {%- assign aliases = aliases | push: page.title -%}
 {%- endif -%}
 
-{%- assign search = aliases | join: '" "' | prepend: '"' | append: '"' | prepend: "/publications/?search=" -%}
-
