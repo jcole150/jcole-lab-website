@@ -51,7 +51,7 @@ nutrition, epidemiology, and/or metabolism? Come join our team.
 
 {%
   include feature.html
-  image="images/lab-photos/DBMIretreat_2024.jpg"
+  image="images/som_DeptBiomedicalnformatics_h_clr.jpg"
   link="team"
   title="Our Team"
   text=text
