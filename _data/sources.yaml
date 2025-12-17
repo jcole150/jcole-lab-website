@@ -299,3 +299,28 @@
   tags:
     - GWAS
     - Facial Shape
+        
+- id: 10.1681/ASN.0000000718
+  image: https://journals.lww.com/jasn/pages/default.aspx
+  tags:
+    - GWAS
+    - Diabetic Kidney Disease
+          
+- id: 10.1126/science.adp4753
+  image: https://www.science.org/journal/science
+  tags:
+    - GWAS
+    - Kidney Disease
+    
+- id: 10.3389/fnut.2025.1592666
+  image: https://www.frontiersin.org/
+  tags:
+    - Editorial
+    - Nutrigenomics
+    - Mendelian Randomization
+
+- id: 10.2337/db25-0614
+  image: https://diabetesjournals.org/diabetes
+  tags:
+    - Type 2 Diabetes
+    - Nutrigenomics
