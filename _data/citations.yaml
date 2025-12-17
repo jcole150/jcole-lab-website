@@ -1545,6 +1545,416 @@
   - GWAS
   - Facial Shape
   _cache: 127c7ccc9d0edcf480523a170acd25aa3b341abeb067f410b02b56d934645608
+- id: 10.1681/ASN.0000000718
+  title: Genome-Wide Association Study of Quantitative Kidney Function in 52,531 Individuals
+    with Diabetes Identifies Five Diabetes-Specific Loci
+  authors:
+  - Joanne B. Cole
+  - "Emma H. Dahlstr\xF6m"
+  - Damian Fermin
+  - Yogesh Gupta
+  - Claire Hill
+  - Laura J. Smyth
+  - Hongbo Liu
+  - Raymond J. Kreienkamp
+  - Marcus G. Pezzolesi
+  - Jing Jing Cao
+  - Erkka Valo
+  - Wei-Min Chen
+  - Suna Onengut-Gumuscu
+  - Stephen S. Rich
+  - Eoin P. Brennan
+  - Darrell Andrews
+  - "Ciar\xE1n Kennedy"
+  - Harvest F. Gu
+  - Lars Stechemesser
+  - Raimund Weitgasser
+  - Jelizaveta Sokolovska
+  - Lina Radzeviciene
+  - Rasa Verkauskiene
+  - Nicolae M. Panduru
+  - Peter Rossing
+  - Tarunveer S. Ahluwalia
+  - Gianpaolo Zerbini
+  - Michel Marre
+  - Samy Hadjadj
+  - Tina Costacou
+  - Rachel G. Miller
+  - Barbara E. Klein
+  - Kristine E. Lee
+  - Janet K. Snell-Bergeon
+  - Maria Luiza Caramori
+  - Michael Mauer
+  - Kerstin Brismar
+  - Petter Bjornstad
+  - Amy J. McKnight
+  - Gareth McKay
+  - Viji Nair
+  - Rany M. Salem
+  - Per-Henrik Groop
+  - Catherine Godson
+  - Katalin Susztak
+  - Matthias Kretzler
+  - Alexander P. Maxwell
+  - Andrzej Krolewski
+  - Andrew Paterson
+  - Niina Sandholm-Lafferre
+  - Jose C. Florez
+  - Joel N. Hirschhorn
+  publisher: Journal of the American Society of Nephrology
+  date: '2025-05-05'
+  link: https://doi.org/g9j3nz
+  image: https://journals.lww.com/jasn/pages/default.aspx
+  tags:
+  - GWAS
+  - Diabetic Kidney Disease
+  _cache: fb8c1091216a481aaaca220eef0971ce76df21e1424be39a108f28dc42a08729
+- id: 10.1126/science.adp4753
+  title: Kidney multiome-based genetic scorecard reveals convergent coding and regulatory
+    variants
+  authors:
+  - Hongbo Liu
+  - Amin Abedini
+  - Eunji Ha
+  - Ziyuan Ma
+  - Xin Sheng
+  - Bernhard Dumoulin
+  - Chengxiang Qiu
+  - Tamas Aranyi
+  - Shen Li
+  - Nicole Dittrich
+  - Hua-Chang Chen
+  - Ran Tao
+  - Der-Cherng Tarng
+  - Feng-Jen Hsieh
+  - Shih-Ann Chen
+  - Shun-Fa Yang
+  - Mei-Yueh Lee
+  - Pui-Yan Kwok
+  - Jer-Yuarn Wu
+  - Chien-Hsiun Chen
+  - Atlas Khan
+  - Nita A. Limdi
+  - Wei-Qi Wei
+  - Theresa L. Walunas
+  - Elizabeth W. Karlson
+  - Eimear E. Kenny
+  - Yuan Luo
+  - Leah Kottyan
+  - John J. Connolly
+  - Gail P. Jarvik
+  - Chunhua Weng
+  - Ning Shang
+  - Joanne B. Cole
+  - Josep M. Mercader
+  - Ravi Mandla
+  - Timothy D. Majarian
+  - Jose C. Florez
+  - Mary E. Haas
+  - Luca A. Lotta
+  - ' '
+  - ' '
+  - Theodore G. Drivas
+  - ' '
+  - Ha My T. Vy
+  - Girish N. Nadkarni
+  - Laura K. Wiley
+  - Melissa P. Wilson
+  - Christopher R. Gignoux
+  - Humaira Rasheed
+  - Laurent F. Thomas
+  - "Bj\xF8rn Olav \xC5svold"
+  - Ben M. Brumpton
+  - Stein I. Hallan
+  - Kristian Hveem
+  - Jie Zheng
+  - Jacklyn N. Hellwege
+  - Matthew Zawistowski
+  - "Sebastian Z\xF6llner"
+  - Nora Franceschini
+  - Hailong Hu
+  - Jianfu Zhou
+  - Krzysztof Kiryluk
+  - Marylyn D. Ritchie
+  - Matthew Palmer
+  - Todd L. Edwards
+  - Benjamin F. Voight
+  - Adriana M. Hung
+  - Katalin Susztak
+  - Aris Baras
+  - "Gon\xE7alo Abecasis"
+  - Adolfo Ferrando
+  - Giovanni Coppola
+  - Andrew Deubler
+  - Aris Economides
+  - Luca A Lotta
+  - John D Overton
+  - Jeffrey G Reid
+  - Alan Shuldiner
+  - Katherine Siminovitch
+  - Jason Portnoy
+  - Marcus B Jones
+  - Lyndon Mitnaul
+  - Alison Fenney
+  - Jonathan Marchini
+  - Manuel Allen Revez Ferreira
+  - Maya Ghoussaini
+  - Mona Nafde
+  - William Salerno
+  - John D Overton
+  - Christina Beechert
+  - Erin Fuller
+  - Laura M Cremona
+  - Eugene Kalyuskin
+  - Hang Du
+  - Caitlin Forsythe
+  - Zhenhua Gu
+  - Kristy Guevara
+  - Michael Lattari
+  - Alexander Lopez
+  - Kia Manoochehri
+  - Prathyusha Challa
+  - Manasi Pradhan
+  - Raymond Reynoso
+  - Ricardo Schiavo
+  - Maria Sotiropoulos Padilla
+  - Chenggu Wang
+  - Sarah E Wolf
+  - Hang Du
+  - Kristy Guevara
+  - Amelia Averitt
+  - Nilanjana Banerjee
+  - Dadong Li
+  - Sameer Malhotra
+  - Justin Mower
+  - Mudasar Sarwar
+  - Deepika Sharma
+  - Sean Yu
+  - Aaron Zhang
+  - Muhammad Aqeel
+  - Jeffrey G Reid
+  - Mona Nafde
+  - Manan Goyal
+  - George Mitra
+  - Sanjay Sreeram
+  - Rouel Lanche
+  - Vrushali Mahajan
+  - Sai Lakshmi Vasireddy
+  - Gisu Eom
+  - Krishna Pawan Punuru
+  - Sujit Gokhale
+  - Benjamin Sultan
+  - Pooja Mule
+  - Eliot Austin
+  - Xiaodong Bai
+  - Lance Zhang
+  - Sean O'Keeffe
+  - Razvan Panea
+  - Evan Edelstein
+  - Ayesha Rasool
+  - William Salerno
+  - Evan K Maxwell
+  - Boris Boutkov
+  - Alexander Gorovits
+  - Ju Guan
+  - Lukas Habegger
+  - Alicia Hawes
+  - Olga Krasheninina
+  - Samantha Zarate
+  - Adam J Mansfield
+  - Lukas Habegger
+  - "Gon\xE7alo Abecasis"
+  - Joshua Backman
+  - Kathy Burch
+  - Adrian Campos
+  - Liron Ganel
+  - Sheila Gaynor
+  - Benjamin Geraghty
+  - Arkopravo Ghosh
+  - Salvador Romero Martinez
+  - Christopher Gillies
+  - Lauren Gurski
+  - Joseph Herman
+  - Eric Jorgenson
+  - Tyler Joseph
+  - Michael Kessler
+  - Jack Kosmicki
+  - Adam Locke
+  - Priyanka Nakka
+  - Jonathan Marchini
+  - Karl Landheer
+  - Olivier Delaneau
+  - Maya Ghoussaini
+  - Anthony Marcketta
+  - Joelle Mbatchou
+  - Arden Moscati
+  - Aditeya Pandey
+  - Anita Pandit
+  - Jonathan Ross
+  - Carlo Sidore
+  - Eli Stahl
+  - Timothy Thornton
+  - Sailaja Vedantam
+  - Rujin Wang
+  - Kuan-Han Wu
+  - Bin Ye
+  - Blair Zhang
+  - Andrey Ziyatdinov
+  - Yuxin Zou
+  - Jingning Zhang
+  - Kyoko Watanabe
+  - Mira Tang
+  - Frank Wendt
+  - Suganthi Balasubramanian
+  - Suying Bao
+  - Kathie Sun
+  - Chuanyi Zhang
+  - Adolfo Ferrando
+  - Giovanni Coppola
+  - Luca A Lotta
+  - Alan Shuldiner
+  - Katherine Siminovitch
+  - Brian Hobbs
+  - Jon Silver
+  - William Palmer
+  - Rita Guerreiro
+  - Amit Joshi
+  - Antoine Baldassari
+  - Cristen Willer
+  - Sarah Graham
+  - Ernst Mayerhofer
+  - Erola Pairo Castineira
+  - Mary Haas
+  - Niek Verweij
+  - George Hindy
+  - Jonas Bovijn
+  - Tanima De
+  - Parsa Akbari
+  - Luanluan Sun
+  - Olukayode Sosina
+  - Arthur Gilly
+  - Peter Dornbos
+  - Juan Rodriguez-Flores
+  - Moeen Riaz
+  - Manav Kapoor
+  - Gannie Tzoneva
+  - Momodou W Jallow
+  - Anna Alkelai
+  - Ariane Ayer
+  - Veera Rajagopal
+  - Sahar Gelfman
+  - Vijay Kumar
+  - Jacqueline Otto
+  - Neelroop Parikshak
+  - Aysegul Guvenek
+  - Jose Bras
+  - Silvia Alvarez
+  - Jessie Brown
+  - Jing He
+  - Hossein Khiabanian
+  - Joana Revez
+  - Kimberly Skead
+  - Valentina Zavala
+  - Jae Soon Sul
+  - Lei Chen
+  - Sam Choi
+  - Amy Damask
+  - Nan Lin
+  - Charles Paulding
+  - Marcus B Jones
+  - Esteban Chen
+  - Michelle G LeBlanc
+  - Jason Mighty
+  - Jennifer Rico-Varela
+  - Nirupama Nishtala
+  - Nadia Rana
+  - Jaimee Hernandez
+  - Alison Fenney
+  - Randi Schwartz
+  - Jody Hankins
+  - Anna Han
+  - Samuel Hart
+  - Ann Perez-Beals
+  - Gina Solari
+  - Johannie Rivera-Picart
+  - Michelle Pagan
+  - Sunilbe Siceron
+  - Adam Buchanan
+  - David J. Carey
+  - Christa L. Martin
+  - Michelle Meyer
+  - Kyle Retterer
+  - David Rolston
+  - Daniel J. Rader
+  - Marylyn D. Ritchie
+  - JoEllen Weaver
+  - Nawar Naseer
+  - Giorgio Sirugo
+  - Afiya Poindexter
+  - Yi-An Ko
+  - Kyle P. Nerz
+  - Meghan Livingstone
+  - Fred Vadivieso
+  - Stephanie DerOhannessian
+  - Teo Tran
+  - Julia Stephanowski
+  - Salma Santos
+  - Ned Haubein
+  - Joseph Dunn
+  - Anurag Verma
+  - Colleen Morse Kripke
+  - Marjorie Risman
+  - Renae Judy
+  - Colin Wollack
+  - Shefali S. Verma
+  - Scott M. Damrauer
+  - Yuki Bradford
+  - Scott M. Dudek
+  - Theodore G. Drivas
+  publisher: Science
+  date: '2025-02-07'
+  link: https://doi.org/g84qrz
+  image: https://www.science.org/journal/science
+  tags:
+  - GWAS
+  - Kidney Disease
+  _cache: 3941f5ca84304fba4574331a4202a3bd252502d606453a5b470ae827cd744b81
+- id: 10.3389/fnut.2025.1592666
+  title: 'Editorial: Causal associations between nutrition, health, and genes: an
+    evidence-based approach'
+  authors:
+  - Kristen J. Sutton
+  - Lauren O'Connor
+  - Cheng Zheng
+  - Nicola Pirastu
+  - Joanne B. Cole
+  publisher: Frontiers in Nutrition
+  date: '2025-04-08'
+  link: https://doi.org/hbfwdb
+  image: https://www.frontiersin.org/
+  tags:
+  - Editorial
+  - Nutrigenomics
+  - Mendelian Randomization
+  _cache: dda0177a9ef47492ac50a440e38e8e07e18d6918b66a3d5c53e0331a025ef555
+- id: 10.2337/db25-0614
+  title: Genetic Variants Increasing TAS2R38 Bitter Taste Receptor Sensitivity Are
+    Associated With Lower Postprandial Glycemia
+  authors:
+  - Julie E. Gervis
+  - Kenneth E. Westerman
+  - Joanne B. Cole
+  - Jordi Merino
+  - Sara J. Cromer
+  - Miriam S. Udler
+  publisher: Diabetes
+  date: '2025-11-20'
+  link: https://doi.org/hbfwdc
+  image: https://diabetesjournals.org/diabetes
+  tags:
+  - Type 2 Diabetes
+  - Nutrigenomics
+  _cache: b60e6dba0da6264b446d83d208e2d58bfb6e828e694df9f31151d9e39653f19b
 - orcid: 0000-0001-9520-2788
   joanne-cole: true
   _cache: d4afc65971f64a7e48cae7c34c5845bf4ac8da5c0e148b9a882271f4043ba5d9
