@@ -1604,11 +1604,11 @@
   publisher: Journal of the American Society of Nephrology
   date: '2025-05-05'
   link: https://doi.org/g9j3nz
-  image: https://journals.lww.com/jasn/pages/default.aspx
+  image: https://hsc.unm.edu/medicine/departments/internal-medicine/academic-divisions/nephrology/chek-d/announcements-events.html
   tags:
   - GWAS
   - Diabetic Kidney Disease
-  _cache: fb8c1091216a481aaaca220eef0971ce76df21e1424be39a108f28dc42a08729
+  _cache: cbac66cc38bd854cbdce97edb01ee6200a5cd24489c2bb69a9d8a032dab2d740
 - id: 10.1126/science.adp4753
   title: Kidney multiome-based genetic scorecard reveals convergent coding and regulatory
     variants
@@ -1914,11 +1914,11 @@
   publisher: Science
   date: '2025-02-07'
   link: https://doi.org/g84qrz
-  image: https://www.science.org/journal/science
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/a105/12013656/1e65d5130dee/nihms-2065775-f0001.jpg
   tags:
   - GWAS
   - Kidney Disease
-  _cache: 3941f5ca84304fba4574331a4202a3bd252502d606453a5b470ae827cd744b81
+  _cache: 0ee8b1d2cf6e33508a6a995a998a4c32b964510bcfc3a184552aec773193de12
 - id: 10.3389/fnut.2025.1592666
   title: 'Editorial: Causal associations between nutrition, health, and genes: an
     evidence-based approach'
@@ -1931,12 +1931,12 @@
   publisher: Frontiers in Nutrition
   date: '2025-04-08'
   link: https://doi.org/hbfwdb
-  image: https://www.frontiersin.org/
+  image: https://www.greenstrategies.com/frontiers-journal-publication-scope-3-what-question-are-we-trying-to-answer/frontiers-logo/
   tags:
   - Editorial
   - Nutrigenomics
   - Mendelian Randomization
-  _cache: dda0177a9ef47492ac50a440e38e8e07e18d6918b66a3d5c53e0331a025ef555
+  _cache: 3e0e60f6cd0cea5ac341a580bd43b62cbce98c7515fc347a3a46a30a38f9df59
 - id: 10.2337/db25-0614
   title: Genetic Variants Increasing TAS2R38 Bitter Taste Receptor Sensitivity Are
     Associated With Lower Postprandial Glycemia
@@ -1950,11 +1950,11 @@
   publisher: Diabetes
   date: '2025-11-20'
   link: https://doi.org/hbfwdc
-  image: https://diabetesjournals.org/diabetes
+  image: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=12645167_db250614f1.jpg
   tags:
   - Type 2 Diabetes
   - Nutrigenomics
-  _cache: b60e6dba0da6264b446d83d208e2d58bfb6e828e694df9f31151d9e39653f19b
+  _cache: 65c18ff57ede1e5db217b75a18099bbd891ef0c3118d78b94e73fd5c606de02b
 - orcid: 0000-0001-9520-2788
   joanne-cole: true
   _cache: d4afc65971f64a7e48cae7c34c5845bf4ac8da5c0e148b9a882271f4043ba5d9
