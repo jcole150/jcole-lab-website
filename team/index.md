@@ -37,6 +37,44 @@ nav:
 
 {% include section.html %}
 
+## Alumni
+{% include list.html data="members" component="portrait" filters="role: pi, group: " %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: " %}
+{% include list.html data="members" component="portrait" filters="role: undergraduate student, group: " %}
+{% include list.html data="members" component="portrait" filters="role: graduate student, group: " %}
+{% include list.html data="members" component="portrait" filters="role: pra, group: " %}
+{% include list.html data="members" component="portrait" filters="role: mascot, group: " %}
+
+## Alumni
+
+<table class="alumni-table">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Lab role</th>
+      <th>Dates</th>
+      <th>Current position</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>First Last</td>
+      <td>Undergraduate student</td>
+      <td>2023–2024</td>
+      <td>Medical student, University X</td>
+    </tr>
+    <tr>
+      <td>First Last</td>
+      <td>Professional Research Assistant</td>
+      <td>2022–2025</td>
+      <td>PhD student, University Y</td>
+    </tr>
+  </tbody>
+</table>
+
+{% include section.html dark=true %}
+
 ## Funding
 
 Our work is made possible by funding from several organizations.
@@ -58,11 +96,16 @@ Our work is made possible by funding from several organizations.
   tooltip3="Ludeman Family Center for Women's Health Research"
   
   image4="images/funding/TRSP.jpg"
-  link3="https://medschool.cuanschutz.edu/program-to-advance-physician-scientists-translational-research/physician-scientist-initiatives/Early-faculty-TRSP"
-  tooltip3="Translational Research Scholars Program"
+  link4="https://medschool.cuanschutz.edu/program-to-advance-physician-scientists-translational-research/physician-scientist-initiatives/Early-faculty-TRSP"
+  tooltip4="Translational Research Scholars Program"
   
   image5="images/funding/NIGMS_v2.jpg"
-  link3="https://medschool.cuanschutz.edu/center-for-womens-health-research"
-  tooltip2="National Institute of General Medical Sciences"
+  link5="https://medschool.cuanschutz.edu/center-for-womens-health-research"
+  tooltip5="National Institute of General Medical Sciences"
+
+  image6="images/funding/watermelon.png"
+  link6="https://medschool.cuanschutz.edu/center-for-womens-health-research](https://www.watermelon.org/audiences/industry/research/"
+  tooltip6="National Watermelon Promotion Board"
+
 
 %}
