@@ -30,16 +30,16 @@ nav:
   </thead>
   <tbody>
     <tr>
-      <td>First Last</td>
-      <td>Undergraduate student</td>
-      <td>2023–2024</td>
-      <td>Medical student, University X</td>
+      <td>Moomal Jatoi</td>
+      <td>MS graduate student</td>
+      <td>2025–2026</td>
+      <td></td>
     </tr>
     <tr>
-      <td>First Last</td>
-      <td>Professional Research Assistant</td>
-      <td>2022–2025</td>
-      <td>PhD student, University Y</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
