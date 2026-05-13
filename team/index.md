@@ -30,7 +30,7 @@ nav:
   </thead>
   <tbody>
     <tr>
-      <td>Moomal Jatoi</td>
+      <td>Moomal Jatoi, MS</td>
       <td>MS graduate student</td>
       <td>2025–2026</td>
       <td></td>
