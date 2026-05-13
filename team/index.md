@@ -17,35 +17,6 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: pra, group: " %}
 {% include list.html data="members" component="portrait" filters="role: mascot, group: " %}
 
-{:.center}
-
-{% include section.html dark=true %}
-
-<!-- ## Join the Cole Lab! -->
-{:.center}
-<!-- Come join us as we grow the lab -->
-{:.center}
-
-{%
-  include link.html
-  icon="fas fa-hands-helping"
-  text="Join the Team"
-  link="join"
-  style="button"
-%}
-{:.center}
-
-{% include section.html %}
-
-## Alumni
-{% include list.html data="members" component="portrait" filters="role: pi, group: " %}
-{% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
-{% include list.html data="members" component="portrait" filters="role: phd, group: " %}
-{% include list.html data="members" component="portrait" filters="role: undergraduate student, group: " %}
-{% include list.html data="members" component="portrait" filters="role: graduate student, group: " %}
-{% include list.html data="members" component="portrait" filters="role: pra, group: " %}
-{% include list.html data="members" component="portrait" filters="role: mascot, group: " %}
-
 ## Alumni
 
 <table class="alumni-table">
@@ -73,7 +44,50 @@ nav:
   </tbody>
 </table>
 
+<style>
+.alumni-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem auto 2rem auto;
+}
+
+.alumni-table,
+.alumni-table tr,
+.alumni-table th,
+.alumni-table td {
+  border: none !important;
+}
+
+.alumni-table th,
+.alumni-table td {
+  padding: 0.5rem 1rem;
+  text-align: left;
+}
+
+.alumni-table th {
+  font-weight: 700;
+}
+</style>
+
+{:.center}
+
 {% include section.html dark=true %}
+
+<!-- ## Join the Cole Lab! -->
+{:.center}
+<!-- Come join us as we grow the lab -->
+{:.center}
+
+{%
+  include link.html
+  icon="fas fa-hands-helping"
+  text="Join the Team"
+  link="join"
+  style="button"
+%}
+{:.center}
+
+{% include section.html %}
 
 ## Funding
 
@@ -104,8 +118,7 @@ Our work is made possible by funding from several organizations.
   tooltip5="National Institute of General Medical Sciences"
 
   image6="images/funding/watermelon.png"
-  link6="https://medschool.cuanschutz.edu/center-for-womens-health-research](https://www.watermelon.org/audiences/industry/research/"
+  link6="https://www.watermelon.org/audiences/industry/research/"
   tooltip6="National Watermelon Promotion Board"
-
 
 %}
