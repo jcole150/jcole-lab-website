@@ -1,3 +1,4 @@
+```markdown
 ---
 title: Team
 nav:
@@ -25,7 +26,6 @@ nav:
       <th>Name</th>
       <th>Lab role</th>
       <th>Dates</th>
-      <th>Current position</th>
     </tr>
   </thead>
   <tbody>
@@ -33,13 +33,6 @@ nav:
       <td>Moomal Jatoi, MS</td>
       <td>MS graduate student</td>
       <td>2025–2026</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
   </tbody>
 </table>
@@ -122,3 +115,4 @@ Our work is made possible by funding from several organizations.
   tooltip6="National Watermelon Promotion Board"
 
 %}
+```
