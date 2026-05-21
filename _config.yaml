@@ -9,6 +9,10 @@ header: images/background.jpg
 footer: images/background.jpg
 baseurl: ""
 
+# files/directories to exclude from the site build
+exclude:
+  - _members/archive/
+
 # site social media and other links
   
 ### advanced settings
