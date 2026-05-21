@@ -11,7 +11,10 @@ baseurl: ""
 
 # site social media and other links
 
-
+# files/directories to exclude from the site build
+exclude:
+  - _members/archive/
+  
 ### advanced settings
 
 # automatic citations
