@@ -1,4 +1,4 @@
-```markdown
+markdown
 ---
 title: Team
 nav:
@@ -115,4 +115,4 @@ Our work is made possible by funding from several organizations.
   tooltip6="National Watermelon Promotion Board"
 
 %}
-```
+
