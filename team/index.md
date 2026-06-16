@@ -34,6 +34,11 @@ nav:
       <td>2025–2026</td>
     </tr>
   </tbody>
+      <tr>
+      <th>Kahtryn Spence, MPH</th>
+      <th>Study Coordinator</th>
+      <th>2025-2026</th>
+    </tr>
 </table>
 
 <style>
