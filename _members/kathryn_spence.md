@@ -1,7 +1,7 @@
 ---
 name: Kathryn Spence
 image: images/team/kathryn.jpg
-role: graduate student
+role: NA
 description: Research Coordinator
 links:
   email: kathryn.spence@ucdenver.edu
