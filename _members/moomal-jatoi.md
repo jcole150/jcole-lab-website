@@ -1,7 +1,7 @@
 ---
 name: Moomal Jatoi
 image: images/team/mj_headshot2.jpeg
-role: graduate student
+role: NA
 description: Graduate Student
 links:
   email: moomal.jatoi@cuanschutz.edu
