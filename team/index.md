@@ -35,9 +35,9 @@ nav:
     </tr>
   </tbody>
       <tr>
-      <th>Kahtryn Spence, MPH</th>
-      <th>Study Coordinator</th>
-      <th>2025-2026</th>
+      <td>Kahtryn Spence, MPH</td>
+      <td>Study Coordinator</td>
+      <td>2025-2026</td>
     </tr>
 </table>
 
