@@ -3,7 +3,7 @@ name: Alex Unangst
 #aliases:
 # - Alex Unangst
 image: images/team/alex_unangst.jpg
-role: undergraduate student
+role: NA
 description: Undergraduate Student
 links:
 
