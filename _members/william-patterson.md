@@ -2,7 +2,7 @@
 name: William Patterson
 image: images/team/william_patterson_headshot.jpg
 description: Postdoc
-role: postdoc
+role: NA
 links:
   orcid: 0000-0001-8355-0857
   email: william.patterson@cuanschutz.edu
