@@ -34,9 +34,27 @@ nav:
       <td>2025–2026</td>
     </tr>
   </tbody>
-      <tr>
-      <td>Kahtryn Spence, MPH</td>
-      <td>Study Coordinator</td>
+    <tr>
+      <td>Kathryn Spence, MPH</td>
+      <td>Study coordinator</td>
+      <td>2025-2026</td>
+    </tr>
+  </tbody>
+    <tr>
+      <td>William Patterson, PhD</td>
+      <td>Postdoctoral fellow</td>
+      <td>2024-2026</td>
+    </tr>  
+  </tbody>
+    <tr>
+      <td>Keshav Vembar, MS</td>
+      <td>MS graduate student</td>
+      <td>2025-2026</td>
+    </tr>
+  </tbody>
+    <tr>
+      <td>Alex Unangst, MS</td>
+      <td>Undergraduate student</td>
       <td>2025-2026</td>
     </tr>
 </table>
