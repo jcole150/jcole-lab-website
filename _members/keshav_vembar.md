@@ -1,7 +1,7 @@
 ---
 name: Keshav Vembar
 image: images/team/keshav_vembar.jpg
-role: graduate student
+role: NA
 description: Graduate Student
 links:
   email: keshav.vembar@cuanschutz.edu
