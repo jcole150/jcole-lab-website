@@ -27,7 +27,7 @@ nav:
       <th>Dates</th>
     </tr>
   </thead>
-  <t/body>
+  </tbody>
     <tr>
       <td>Moomal Jatoi, MS</td>
       <td>MS graduate student</td>
@@ -53,7 +53,7 @@ nav:
       <td>Undergraduate student</td>
       <td>2025-2026</td>
     </tr>
-  <tbody>
+  </tbody>
 </table>
 
 <style>
