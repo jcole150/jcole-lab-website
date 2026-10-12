@@ -48,7 +48,7 @@ nav:
       <td>2025-2026</td>
     </tr>
     <tr>
-      <td>Alex Unangst, MS</td>
+      <td>Alex Unangst</td>
       <td>Undergraduate student</td>
       <td>2025-2026</td>
     </tr>
